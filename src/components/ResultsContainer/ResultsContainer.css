@@ -1,0 +1,13 @@
+.results-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 60px;
+    align-items: center;
+}
+.result-text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
